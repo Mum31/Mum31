@@ -1,9 +1,14 @@
 # 👋 Hi there, I'm Daniala Datang  
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0D1117&width=500&lines=Développeuse+IA+%26+Passionnée+de+Data+Science" alt="Typing SVG" />
+</p>
+
 🎓 *Étudiante en Informatique & Intelligence Artificielle* à l’ECE Paris  
-💼 En recherche d’une **alternance de 12 mois à partir de septembre 2025**  
-📍 Paris, France  
 📊 Passionnée par la **Data Science**, le **Machine Learning** et la **visualisation de données**
+
+---
+
 
 ---
 ## Compétences
