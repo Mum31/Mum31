@@ -1,13 +1,8 @@
-# 👋 Hi there, I'm Daniala Datang  
+# 👋 Bonjour, je suis Daniala Datang  
+### <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="50"> Développeuse IA & Data Scientist
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0D1117&width=500&lines=Développeuse+IA+%26+Passionnée+de+Data+Science" alt="Typing SVG" />
-</p>
-
-🎓 *Étudiante en Informatique & Intelligence Artificielle* à l’ECE Paris  
+🎓 **Étudiante en Informatique & Intelligence Artificielle** à l'ECE Paris  
 📊 Passionnée par la **Data Science**, le **Machine Learning** et la **visualisation de données**
-
----
 
 
 ---
