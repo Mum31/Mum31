@@ -213,7 +213,7 @@ class CurrentlyLearning:
 ##  Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ton-profil-linkedin/">
+  <a href="https://www.linkedin.com/in/daniala-datang-3231b932a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
   <a href="https://github.com/Mum31">
@@ -222,7 +222,7 @@ class CurrentlyLearning:
   <a href="mailto:danialadatang@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
-  <a href="https://tonportfolio.com">
+  <a href="https://mum31.github.io/DanialaDatang/">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6366F1"/>
   </a>
 </p>
